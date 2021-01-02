@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **alam-tahmid/alam-tahmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hey there, 👋 Welcome to profile. My name is Tahmid.
+#### I am a Java Developer.
+![I am a Java Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I completed my master's degree from Purdue Fort Wayne. I have over 2 years of work experience as a Software Engineer with various technologies. 
+
+Skills: Java/ Spring Boot/ JS / Angular/ ReactNative.
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alam-tahmid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alam.tahmid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](alam-tahmid.github.io)  
+
+
