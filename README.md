@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ### Hey there, 👋 Welcome to profile. My name is Tahmid.
 #### I am a Java Developer.
 
-![I am a Java Developer.]
 I completed my master's degree from Purdue Fort Wayne. I have over 2 years of work experience as a Software Engineer with various technologies. 
 
 Skills: Java/ Spring Boot/ JS / Angular/ ReactNative.
